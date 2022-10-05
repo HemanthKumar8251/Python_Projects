@@ -1,0 +1,1 @@
+This repository contains some simple yet useful python projects made using the modules
